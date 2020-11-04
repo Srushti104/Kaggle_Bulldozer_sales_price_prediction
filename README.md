@@ -1,6 +1,7 @@
-# Kaggle_Bulldozer_sales_price_prediction
+# Bulldozer Sales Price Prediction using Supervised ML model
 In this Kaggle competition, I am predicting the sale price of bulldozers sold at auctions.  The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices.
 
+Link to Kaggle competition:
 https://www.kaggle.com/c/bluebook-for-bulldozers
 
 Steps to Regenerate the Project:
